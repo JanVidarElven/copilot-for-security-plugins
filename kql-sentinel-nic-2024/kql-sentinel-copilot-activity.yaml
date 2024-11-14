@@ -1,7 +1,7 @@
 Descriptor: 
  Name: CfSAllinOne 
  DisplayName: Copilot for Security Activity 
- Description: (C) Morten W Knudsen, Microsoft MVP Security Copilot. Looks for all Copilot for Security Activity including SCU creation, changes and deletion and Standalone and embedded experience logins. Will be updated when new activities are discovered. 
+ Description: Credit to Rod Trent, Program Manager for Security Copilot, and Morten W Knudsen, Microsoft MVP Security Copilot, for sharing this. Looks for all Copilot for Security Activity including SCU creation, changes and deletion and Standalone and embedded experience logins. Will be updated when new activities are discovered. 
 
 SkillGroups: 
  - Format: KQL 
